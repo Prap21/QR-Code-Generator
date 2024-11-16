@@ -19,3 +19,5 @@ Try the live version here: [QR Code Generator](https://Prap21.github.io/QR-Code-
 # How It Works
 - Input Field: Enter a URL or any text in the input field.
 - Generate QR Code: The app dynamically generates a QR code based on the input.
+
+Contact Me at : dimosprap@gmail.com
