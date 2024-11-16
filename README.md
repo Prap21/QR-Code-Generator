@@ -13,7 +13,8 @@ A simple and efficient QR Code Generator that allows users to create QR codes fo
 - QRServer API: Fetches QR codes dynamically based on user inpu
   
 🚀 Live Demo
-Try the live version here: Live Demo Link
+Try the live version here: [QR Code Generator](https://Prap21.github.io/QR-Code-Generator/)
+
 
 # How It Works
 - Input Field: Enter a URL or any text in the input field.
